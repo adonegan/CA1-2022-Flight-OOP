@@ -1,3 +1,2 @@
-# CA1 Python OOP
-
-A college continous assessment project, object oriented programming using Python.
+# CA1 Flight System
+A continous assessment project for college. Object Oriented Programming. Using Python.
